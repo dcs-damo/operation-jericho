@@ -1,2 +1,2 @@
 # operation-jericho
-DCS mission recrteating the historical bombing of Amiens prison
+DCS mission recreating the historical bombing of Amiens prison
